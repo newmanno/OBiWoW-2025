@@ -7,3 +7,14 @@ Any questions about the event should be addressed to oslo-bioinfo-workshops@ifi.
 Time and place: Dec. 8, 2025 9:00 AM – Dec. 12, 2025 4:00 PM, [Ole Johan Dalshus](https://www.uio.no/om/finn-fram/omrader/gaustad/ga06/) [Add to calendar](https://www.mn.uio.no/bils/english/events/oslo-bioinfomatics-week/oslo-bioinformatics-workshop-week-2025/index.html?vrtx=ical)
 
 See [the website](https://www.mn.uio.no/bils/english/events/oslo-bioinfomatics-week/oslo-bioinformatics-workshop-week-2025/) for course info.
+
+## For Instructors
+
+**Adding your workshop materials?** See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed instructions.
+
+**Quick summary:**
+1. Fork this repo
+2. Add your materials to the appropriate day/workshop folder
+3. Submit a pull request
+
+
